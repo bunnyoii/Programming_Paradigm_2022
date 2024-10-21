@@ -7,4 +7,4 @@
 授课学期：2023-2024年度 秋季学期
 
 期末项目链接：
-![Teamfight Tactics - 基于Cocos-2dx开发的自走棋游戏](https://github.com/bunnyoii/Teamfight_Tactics/tree/main)
+[Teamfight Tactics - 基于Cocos-2dx开发的自走棋游戏](https://github.com/bunnyoii/Teamfight_Tactics/tree/main)
